@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OLAP.API", "OLAP\OLAP.API.csproj", "{132D7B77-EC8A-404E-8C0F-CC7CD7ADAD01}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic.Repository", "GenericRepository\Generic.Repository.csproj", "{2E5692E3-C362-46E8-B730-50DCA987B19D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{132D7B77-EC8A-404E-8C0F-CC7CD7ADAD01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{132D7B77-EC8A-404E-8C0F-CC7CD7ADAD01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{132D7B77-EC8A-404E-8C0F-CC7CD7ADAD01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{132D7B77-EC8A-404E-8C0F-CC7CD7ADAD01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E5692E3-C362-46E8-B730-50DCA987B19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5692E3-C362-46E8-B730-50DCA987B19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5692E3-C362-46E8-B730-50DCA987B19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5692E3-C362-46E8-B730-50DCA987B19D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {986E74A2-9ED1-4AE7-9B74-C3B4794390AE}
+	EndGlobalSection
+EndGlobal
